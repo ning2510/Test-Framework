@@ -1,10 +1,3 @@
-/*************************************************************************
-        > File Name: test.cc
-        > Author: 
-        > Mail: 
-        > Created Time: Thu 11 Mar 2021 07:45:37 PM CST
- ************************************************************************/
-
 #include <haizei/test.h>
 #include <string.h>
 #include <stdio.h>

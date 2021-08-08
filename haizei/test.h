@@ -1,10 +1,3 @@
-/*************************************************************************
-	> File Name: test.h
-	> Author: 
-	> Mail: 
-	> Created Time: Thu 11 Mar 2021 07:45:37 PM CST
- ************************************************************************/
-
 #ifndef _TEST_H
 #define _TEST_H
 #include <haizei/linklist.h>
